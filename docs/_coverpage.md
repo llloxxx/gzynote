@@ -1,11 +1,11 @@
 <!-- _coverpage.md -->
 
-<!-- ![logo](media/icon.svg) -->
+![logo](media/icon.svg)
 
 
 <!-- backgound image -->
 
-<!-- ![](media/bg.png) -->
+![](media/bg.png)
 
 <!-- background color -->
 
