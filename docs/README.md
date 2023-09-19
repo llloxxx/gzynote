@@ -1,3 +1,3 @@
-# Headline
+# 这是一个记录个人日常学习生活中的笔记，知识还不成体系，内容也比较乱，目前仅限于个人复习阅读..
 
-> An awesome project.
+> GOOD GOOD STUDY, DAY DAY UP UP !!!
